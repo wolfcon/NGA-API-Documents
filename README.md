@@ -1,8 +1,10 @@
 # AppAPI
 
+<details>
+  <summary><mark><font color=darkred>**Table of Contents**</font></mark></summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  
+
 
 - [⚠️注意](#%E6%B3%A8%E6%84%8F)
 - [登录](#%E7%99%BB%E5%BD%95)
@@ -36,6 +38,8 @@
 - [nuke.php 请求](#nukephp-%E8%AF%B7%E6%B1%82)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+</details>
 
 ## ⚠️注意
 
