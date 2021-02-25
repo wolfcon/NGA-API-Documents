@@ -1,6 +1,41 @@
 # AppAPI
 
-[TOC]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  
+
+- [⚠️注意](#%E6%B3%A8%E6%84%8F)
+- [登录](#%E7%99%BB%E5%BD%95)
+  - [客户端专属登录](#%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%93%E5%B1%9E%E7%99%BB%E5%BD%95)
+  - [网页登录](#%E7%BD%91%E9%A1%B5%E7%99%BB%E5%BD%95)
+- [其余网络请求](#%E5%85%B6%E4%BD%99%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82)
+  - [baseURL: `app_api.php`](#baseurl-app_apiphp)
+  - [基础参数](#%E5%9F%BA%E7%A1%80%E5%8F%82%E6%95%B0)
+    - [刮墙签到](#%E5%88%AE%E5%A2%99%E7%AD%BE%E5%88%B0)
+    - [home](#home)
+    - [subject](#subject)
+    - [favor](#favor)
+    - [favorforum](#favorforum)
+    - [user](#user)
+    - [post](#post)
+    - [message](#message)
+    - [gift](#gift)
+    - [notify](#notify)
+    - [nearby](#nearby)
+    - [block](#block)
+    - [forum](#forum)
+    - [device](#device)
+    - [blackstore](#blackstore)
+    - [addresslist](#addresslist)
+    - [game](#game)
+    - [match](#match)
+    - [ow](#ow)
+    - [wow](#wow)
+    - [manage](#manage)
+    - [openim](#openim)
+- [nuke.php 请求](#nukephp-%E8%AF%B7%E6%B1%82)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## ⚠️注意
 
