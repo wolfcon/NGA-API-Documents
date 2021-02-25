@@ -1,7 +1,7 @@
 # AppAPI
 
 <details>
-  <summary><mark><font color=darkred>**Table of Contents**</font></mark></summary>
+  <summary>点击展开目录</summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
