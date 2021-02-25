@@ -6,7 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [⚠️注意](#%E6%B3%A8%E6%84%8F)
+- [注意](#%E6%B3%A8%E6%84%8F)
 - [登录](#%E7%99%BB%E5%BD%95)
   - [客户端专属登录](#%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%93%E5%B1%9E%E7%99%BB%E5%BD%95)
   - [网页登录](#%E7%BD%91%E9%A1%B5%E7%99%BB%E5%BD%95)
@@ -41,9 +41,9 @@
 
 </details>
 
-## ⚠️注意
+## 注意
 
-参数等信息(比如 `%@` 为要替换的参数值) [参考这里的网页版文档](https://github.com/wolfcon/NGA-API-Documents/wiki). 
+⚠️参数等信息(比如 `%@` 为要替换的参数值) [参考这里的网页版文档](https://github.com/wolfcon/NGA-API-Documents/wiki). 
 
 由于本 API 列表是 ~~`以某科学方式获得`~~ , 有可能会不全, 欢迎 PR 补全各项信息.
 
