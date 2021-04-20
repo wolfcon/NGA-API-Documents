@@ -171,8 +171,10 @@ __lib=user&__act=thirdpartyregister
 #### post
 ```js
 __lib=post&__act=list
+// 获取主题分类信息
 __lib=post&__act=titletype
 __lib=post&__act=recommend
+// 获取发布信息, 比如上传地址, 上传验证码等等
 __lib=post&__act=check
 __lib=post&__act=new
 __lib=post&__act=reply
